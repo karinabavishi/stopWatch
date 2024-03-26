@@ -1,6 +1,6 @@
 # stopWatch
 
-Features
+#Features
 Start timer
 On click of start button, start the timer
 If timer is 0 start from beginning else start from wherever last stopped
